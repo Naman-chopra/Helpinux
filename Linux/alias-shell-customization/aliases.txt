@@ -1,0 +1,13 @@
+alias driive='cd /media/naman/7FFD-CD8E/'
+alias gpu='conda activate GPU_V1'
+alias refresh='source ~/.bashrc'
+alias jnb='jupyter notebook --no-browser'
+alias rcedit='sudo gedit ~/.bashrc'
+alias install='sudo apt install'
+alias vpn='warp-cli connect'
+alias novpn='warp-cli disconnect'
+alias gstat='nvidia-smi'
+alias vstat='warp-cli status'
+
+alias glut='read IP && read out && g++ $IP -o $out -lGL -lGLU -lglut &&./$out'
+alias refresh='source ~/.config/fish/config.fish'
