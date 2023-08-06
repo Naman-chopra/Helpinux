@@ -3,7 +3,7 @@ This repository is made with the intent to "make your life easy". It contains im
 
 
 
-![Intro](assets/first.jpg)
+![Intro](./assets/first.jpg)
 
 
 
