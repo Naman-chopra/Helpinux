@@ -41,5 +41,5 @@ Save the changes by hitting `ctrl+s` and then close the window (press `ctrl+w` t
 Now to make the shell recognise the aliases, type `source ~/.bashrc` in the terminal.
 To check if the alias is working, type `jnb` (the alias we just assigned) in the terminal and kaboomm the server should fire up!!
 
-I'll be attaching a text file that contains the aliases that I tend to use often and might give some idea to you where you could use them.
+I'll be attaching a [text](aliases.txt) file that contains the aliases that I tend to use often and might give some idea to you where you could use them.
 `Note: The glut alias is a little advanced for beginners so just hmu if you have any queries`

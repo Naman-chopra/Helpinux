@@ -21,9 +21,9 @@ First of run `sudo apt install gnome-shell-extension-manager` to install the uti
 
 
 ## Clone your drives without 3rd party software
-Easiest way to clone your drives using some simple linux commands. Vast areas of use like direct cloning of your OS (Windows OR Linux). [Here's](/cloning-your-machine) the folder
+Easiest way to clone your drives using some simple linux commands. Vast areas of use like direct cloning of your OS (Windows OR Linux). [Here's](/Linux/cloning-your-machine) the folder
 
 ## Direct Wireless File sharing (Not limited to Linux)
-See how linux allows users to [directly deploy a file server](/direct-wireless-file-sharing) and share files accross local networks.
+See how linux allows users to [directly deploy a file server](/Linux/direct-wireless-file-sharing) and share files accross local networks.
 
 ## More Coming soon
