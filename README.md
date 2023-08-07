@@ -3,8 +3,10 @@ This repository is made with the intent to "make your life easy". It contains im
 
 
 
-![Intro](/assets/first.jpg)
 
+<p float="center">
+  <img src="/assets/first.jpg" width="400"/>
+</p>
 
 
 ## Keynotes
