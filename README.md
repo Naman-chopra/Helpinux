@@ -37,7 +37,7 @@ The difference between Garuda and ubuntu in most of the operations is that inste
 sudo pacman -Sy "package name"
 ```
 
-Soon I'll publish the alias-user-customization codes that will make your CLI commands (generally much much longer than this) easier to use.
+[Here's](/Linux/Redirect.md) a bit of an intro and the repo's contents 
 
 
 
