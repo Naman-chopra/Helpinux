@@ -37,7 +37,7 @@ The difference between Garuda and ubuntu in most of the operations is that inste
 sudo pacman -Sy "package name"
 ```
 
-[Here's](/Linux/Redirect.md) a bit of an intro and the repo's contents 
+[Here's](/Linux/readme.md) a bit of an intro and the repo's contents 
 
 
 
