@@ -5,8 +5,9 @@ Well, most of these commands would be known to advanced users, but this repo tar
   <img src="/assets/second.jpg" width="600"/>
 
 </p>
+
 ## Easy shell usage
-This folder contains the commands that would ease your shell usage using multiple implementations of command line tools.
+[This](/alias-shell-customization) folder contains the commands that would ease your shell usage using multiple implementations of command line tools.
 
 ## High utility Extensions
 Extensions that I use and personally think that ease my use of linux commands.
@@ -20,6 +21,9 @@ First of run `sudo apt install gnome-shell-extension-manager` to install the uti
 
 
 ## Clone your drives without 3rd party software
-Easiest way to clone your drives using some simple linux commands. Vast areas of use like direct cloning of your OS (Windows OR Linux)
+Easiest way to clone your drives using some simple linux commands. Vast areas of use like direct cloning of your OS (Windows OR Linux). [Here's](/cloning-your-machine) the folder
+
+## Direct Wireless File sharing (Not limited to Linux)
+See how linux allows users to [directly deploy a file server](/direct/wireless-file-sharing) and share files accross local networks.
 
 ## More Coming soon
