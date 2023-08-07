@@ -15,7 +15,7 @@ This is a short one, I'll just give the names of these extensions, they're wuite
 First of run `sudo apt install gnome-shell-extension-manager` to install the utility. Once it's done, isntall the following extensions:
 
 <p align="center">
-  <img src="/assets/extensions.png" width="600"/>
+  <img src="/assets/extensions.png" width="900"/>
 
 </p>
 
