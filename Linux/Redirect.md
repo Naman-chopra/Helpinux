@@ -7,7 +7,7 @@ Well, most of these commands would be known to advanced users, but this repo tar
 </p>
 
 ## Easy shell usage
-[This](/alias-shell-customization) folder contains the commands that would ease your shell usage using multiple implementations of command line tools.
+[This](/Linux/alias-shell-customization) folder contains the commands that would ease your shell usage using multiple implementations of command line tools.
 
 ## High utility Extensions
 Extensions that I use and personally think that ease my use of linux commands.
