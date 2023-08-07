@@ -5,7 +5,7 @@ This repository is made with the intent to "make your life easy". It contains im
 
 
 <p align="center">
-  <img src="/assets/first.jpg" width="600"/>
+  <img src="/assets/first.webp" width="600"/>
 
 </p>
 
