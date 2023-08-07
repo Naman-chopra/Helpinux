@@ -21,6 +21,8 @@ Well, there is no particular reason why I use three operating systems, it's just
   <img src="/assets/garuda.webp" width="500"/>
 
 </p>
+
+
  For both the linux based distros, some commands that I assume you know are:
 ``` code
 sudo apt install "package-name"
