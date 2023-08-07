@@ -5,7 +5,7 @@ This repository is made with the intent to "make your life easy". It contains im
 
 
 <p align="center">
-  <img src="/assets/first.jpg" width="400"/>
+  <img src="/assets/first.jpg" width="600"/>
 
 </p>
 
@@ -16,6 +16,11 @@ I currently use 3 OSes, namely Garuda(Arch based), Ubuntu 22.04 LTS, and the use
 Well, there is no particular reason why I use three operating systems, it's just that I've configured cuda and related DL libraries on Ubuntu and windows is just for using MS office and gaming. Garuda is for the time when I need to focus on my work.
 ## Some Important Commands
 ![ubuntu](/assets/ubuntu.webp)![garuda](/assets/garuda.webp)
+<p align="center">
+  <img src="/assets/ubuntu.webp" width="400"/>
+  <img src="/assets/garuda.webp" width="400"/>
+
+</p>
  For both the linux based distros, some commands that I assume you know are:
 ``` code
 sudo apt install "package-name"
