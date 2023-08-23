@@ -1,7 +1,7 @@
 # Share files without any 3rd party services!!
 Hello there! here's a short and easy tutorial that might be useful to share files with people on the same wireless network.
 ## How to do it?
-Trust me, this is going to be a very simple, short and fun hack to implement.
+Trust me, this is going to be a very simple, short and fun to implement.
  Files are generally shared (wirelessly) by creating a server that can provide files to the people who request them. We are going to do something similar.
 
 ### `Caution: The server that we'll create will have no security so it is recommended that you provide your IP to trusted people only`
@@ -29,6 +29,7 @@ Now suppose you want to serve a directory called `Files_to_share` that is in you
 cd /home/USERNAME/Files_to_share
 python3 -m http.server 50001
 ```
+Or simply navigate to the directory where you have the files that you want to share.
 Now on your friend's browser type `yourIP:50001`. For egs if your IP is 123.123.123.123, in your friend's browser's search bar type `123.123.123.123:50001`.  
 *NOTE: You both should be connected to the same wireless network for this to work*
 
@@ -40,7 +41,7 @@ wget -r "http://123.123.123.123:50001"
 This will download the files to your friend's device
 
 ### For people familiar with other tricks
-We can use this trick from [here](/Linux/alias-shell-customization/) above and use it with the previous alias-customisation life hack.
+We can use this trick from [here](/Linux/alias-shell-customization/) above and use it with the previous alias-customisation.
 just add another entry to the bashrc file like so:
 ```console
 alias serve='python3 -m http.server 50001'
