@@ -39,7 +39,7 @@ wget -r "http://123.123.123.123:50001"
 ```
 This will download the files to your friend's device
 
-### For regular people:::::
+### For people who consistently view the repo
 We can use this trick from [here](/Linux/alias-shell-customization/) above and use it with the previous alias-customisation life hack.
 just add another entry to the bashrc file like so:
 ```console
