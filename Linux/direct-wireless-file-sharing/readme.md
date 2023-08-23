@@ -1,7 +1,7 @@
 # Share files without any 3rd party services!!
 Hello there! here's a short and easy tutorial that might be useful to share files with people on the same wireless network.
 ## How to do it?
-Trust me, this is going to be a very simple, short and fun to implement.
+Trust me, this is going to be very simple thing to implement. (Hint: you just need python installed!!!)
  Files are generally shared (wirelessly) by creating a server that can provide files to the people who request them. We are going to do something similar.
 
 ### `Caution: The server that we'll create will have no security so it is recommended that you provide your IP to trusted people only`
