@@ -29,7 +29,7 @@ Now suppose you want to serve a directory called `Files_to_share` that is in you
 cd /home/USERNAME/Files_to_share
 python3 -m http.server 50001
 ```
-Now on your friend's browser type `yourIP:50001`. For egs if your IP is 123.123.123.123, in your friend's browser's search bar type `123.123.123.123:50001`.
+Now on your friend's browser type `yourIP:50001`. For egs if your IP is 123.123.123.123, in your friend's browser's search bar type `123.123.123.123:50001`.  
 *NOTE: You both should be connected to the same wireless network for this to work*
 
 ## How to download the files??
@@ -39,7 +39,7 @@ wget -r "http://123.123.123.123:50001"
 ```
 This will download the files to your friend's device
 
-### For people who consistently view the repo
+### For people familiar with other tricks
 We can use this trick from [here](/Linux/alias-shell-customization/) above and use it with the previous alias-customisation life hack.
 just add another entry to the bashrc file like so:
 ```console
